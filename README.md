@@ -2,6 +2,8 @@
 
 Test change 1
 Test change 1
+Test change 2
+Test change 2
 
 ## Configure a RHEL/Rocky/AlmaLinux 8 machine to be [CIS](https://www.cisecurity.org/cis-benchmarks/) compliant
 
